@@ -10,6 +10,3 @@ If the eye is closed, the eye aspect ratio will again remain approximately const
 but will be much smaller than the ratio when the eye is open.
 
 
-
-
-
